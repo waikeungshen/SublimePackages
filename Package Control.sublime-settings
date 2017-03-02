@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Function Name Display",
+		"GoSublime",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-lua",
+		"SublimeLinter-pyflakes",
+		"Terminal",
+		"Theme - Spacegray",
+		"TodoReview",
+		"VCS Gutter"
+	]
+}

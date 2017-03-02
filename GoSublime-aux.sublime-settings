@@ -1,0 +1,21 @@
+{
+	"9o.hist.C:\\Users\\Administrator\\Desktop\\study\\golang":
+	[
+		"help",
+		"done",
+		"exit",
+		"go go run chanTest.go",
+		"go run chanTest.go",
+		"ls",
+		"go run chat.go",
+		"go run test.go",
+		"clear"
+	],
+	"9o.hist.C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace":
+	[
+		"go run basic.go"
+	],
+	"ann": "a17.02.16-1",
+	"install_version": "r17.02.16-1",
+	"version": "r17.02.16-1"
+}

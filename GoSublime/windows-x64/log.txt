@@ -1,0 +1,46 @@
+
+** 2017-02-15 17:07:25.521746 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"", InstallSuffix:""}
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Go\\src\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:/Go/src", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Go\\bin\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:/Go/bin", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Go\\bin\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:/Go/bin", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "github.com/choix/goluajit"
+Gocode pkg: "."
+Gocode pkg: "github.com/choix/goluajit"
+Gocode pkg: "."
+Gocode pkg: "github.com/choix/goluajit"
+Gocode pkg: "."
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "net"
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\Administrator\\Desktop\\study\\golang\\workspace", InstallSuffix:""}
