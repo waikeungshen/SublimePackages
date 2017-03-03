@@ -1,6 +1,23 @@
 {
 	"anaconda_linting": false,
-	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.csv"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Seti Monokai (SL).tmTheme",
 	"complete_parameters": true,
 	"draw_white_space": "all",
 	"font_face": "Source Code Pro",
@@ -15,14 +32,12 @@
 	"preview_on_click": false,
 	"python_interpreter": "C:/Python27/python.exe",
 	"sidebar_size_14": true,
-	"spacegray_fileicons": true,
-	"spacegray_sidebar_font_xlarge": true,
-	"spacegray_sidebar_tree_large": true,
 	"suppress_explicit_completions": true,
 	"suppress_word_completions": true,
 	"tabs_small": true,
-	"theme": "Spacegray Eighties.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "true",
-	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "*.csv"]
+	"Seti_sb_tree_small": true,
+	"Seti_bold_heading": true,
 }
